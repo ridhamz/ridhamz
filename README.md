@@ -1,16 +1,20 @@
-### Hi there 👋
+# ![](https://raw.githubusercontent.com/ridhamz/ridhamz/main/red.jpeg)
 
-<!--
-**ridhamz/ridhamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hey there 👋,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Ridha Mezrigui an innovative tech mind. 
+Since very young age i have been passionate about computers.
+I wanted to know how do things work in the background, how all those programs are made and I wanted to become a software developer.
+
+
+### Blogs
+💌 i love sharing my knowledge so i always try to publish blogs
+- [medium](https://www.youtube.com/channel/UCoi-WJpxrI5VqcOXfBNV7-g/)
+- [dev.io](https://facebook.com/pwn0day/)
+
+### ⚡ Fun fact:
+Learn by doing is an easy way to learn something
+
+### Stats
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=ridhamz&theme=blue-green&show_icons=true)](https://github.com/ridhamz/github-readme-stats)
