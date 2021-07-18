@@ -1,4 +1,4 @@
-# ![](https://raw.githubusercontent.com/ridhamz/ridhamz/main/red.jpeg)
+# ![](https://raw.githubusercontent.com/ridhamz/ridhamz/main/new.png)
 
 
 ### Hey there 👋,
@@ -10,8 +10,7 @@ I wanted to know how do things work in the background, how all those programs ar
 
 ### Blogs
 💌 i love sharing my knowledge so i always try to publish blogs
-- [medium](https://www.youtube.com/channel/UCoi-WJpxrI5VqcOXfBNV7-g/)
-- [dev.io](https://facebook.com/pwn0day/)
+- [dev.io](https://dev.to/ridhamz)
 
 ### ⚡ Fun fact:
 Learn by doing is an easy way to learn something
