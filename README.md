@@ -8,6 +8,7 @@ I am Ridha Mezrigui an innovative tech mind,  Full Stack Developer, JavaScript E
 
 ### Blogs
 💌 i love sharing my knowledge so i always try to publish blogs
+- [meduim](https://medium.com/@ridhamezrigui07)
 - [dev.io](https://dev.to/ridhamz)
 
 ### ⚡ Fun fact:
