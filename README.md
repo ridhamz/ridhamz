@@ -25,7 +25,7 @@ Learn by doing is an easy way to learn something
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### Stats
+### 🏆 Stats
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=ridhamz&theme=blue-green&show_icons=true)](https://github.com/ridhamz/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
