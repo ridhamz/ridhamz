@@ -15,7 +15,7 @@ I am Ridha Mezrigui an innovative tech mind,  Full Stack Developer, JavaScript E
 Learn by doing is an easy way to learn something
 
 ### 🛠 &nbsp;Tech Stack
-
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -24,7 +24,7 @@ Learn by doing is an easy way to learn something
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+</p>
 ### 🏆 Stats
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=ridhamz&theme=blue-green&show_icons=true)](https://github.com/ridhamz/github-readme-stats)
 
