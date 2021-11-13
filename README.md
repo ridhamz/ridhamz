@@ -3,9 +3,7 @@
 
 ### Hey there 👋,
 
-I am Ridha Mezrigui an innovative tech mind. 
-Since very young age i have been passionate about computers.
-I wanted to know how do things work in the background, how all those programs are made and I wanted to become a software developer.
+I am Ridha Mezrigui an innovative tech mind,  Full Stack Developer, JavaScript Enthusiast & Blogger.
 
 
 ### Blogs
