@@ -1,4 +1,4 @@
- <img align="right" alt="GIF" src="https://github.com/ridhamz/ridhamz/blob/main/gt.jpg?raw=true" width="400" height="300" /> 
+ <img align="right" alt="GIF" src="https://github.com/ridhamz/ridhamz/blob/main/gt.jpg?raw=true" width="400" height="250" /> 
  
  ### Hey there 👋
 
