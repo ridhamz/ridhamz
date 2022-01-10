@@ -1,9 +1,4 @@
-
-
-
-
-  <img align="right" alt="GIF" src="https://github.com/ridhamz/ridhamz/blob/main/wallpaperbetter.com_7680x4320.jpg?raw=true" width="400" height="250" /> <br/>
-<br/>
+ <img align="right" alt="GIF" src="https://github.com/ridhamz/ridhamz/blob/main/wallpaperbetter.com_7680x4320.jpg?raw=true" width="400" height="250" /> 
 ### Hey there 👋,
 I am Ridha Mezrigui an innovative tech mind,  Full Stack Developer, JavaScript Enthusiast & Blogger.
 ### 📒 Blogs 
