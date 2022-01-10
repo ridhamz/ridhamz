@@ -4,7 +4,7 @@
 I am Ridha Mezrigui an innovative tech mind,  Full Stack Developer, JavaScript Enthusiast & Blogger.
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ridhamz/ridhamz/main/giphy.gif" width="100%" height="320" />
+  <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif" width="100%" height="320" />
 
 
 ### 📒 Blogs 
