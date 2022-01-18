@@ -4,8 +4,7 @@
 
 I am Ridha Mezrigui an innovative tech mind who believes in self 
 education.<br />
-Since very young age I have been passionate about <br />
-computers and programming. <br />
+Since very young age I have been passionate about computers and programming. <br />
 I wanted to know how do things work in the background, how all those
 programs are made. <br />
 I really enjoy working with JavaScript technologies such as React💙 and Nodejs💚.
