@@ -1,4 +1,4 @@
- <img align="right" alt="GIF" src="https://github.com/ridhamz/ridhamz/blob/main/16-167405_information-technology.jpg?raw=true" width="450" height="250" /> 
+ <img align="right" alt="GIF" src="https://github.com/ridhamz/ridhamz/blob/main/16-167405_information-technology.jpg?raw=false" width="450" height="250" /> 
  
  ### Hey there 👋
 
