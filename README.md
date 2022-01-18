@@ -2,10 +2,10 @@
  
  ### Hey there 👋
 
-I am Ridha Mezrigui an innovative tech mind,  Full Stack Developer, JavaScript Enthusiast & Blogger.
+I am Ridha Mezrigui an innovative tech mind, who believes in self education.
 
 ### 📒 Blogs 
-💌 i love sharing my knowledge so i always try to publish blogs
+💌 I love sharing my knowledge that's why I always try to create blogs in order to help people.
 - [meduim](https://medium.com/@ridhamezrigui07)
 - [dev.io](https://dev.to/ridhamz)
 
