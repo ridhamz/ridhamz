@@ -2,9 +2,9 @@
  
  ### Hey there 👋
 
-I am Ridha Mezrigui an innovative tech mind who believes in self education. 
-Since very young age I have been passionate about computers and programming.
-I wanted to know how do things work in the background, how all those programs are made.
+I am Ridha Mezrigui an innovative tech mind who believes in self education. <br/>
+Since very young age I have been passionate about computers and programming.<br/>
+I wanted to know how do things work in the background, how all those programs are made. <br/>
 I really enjoy working with JavaScript technologies like react and nodejs.
 
 ### 📒 Blogs 
