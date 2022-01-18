@@ -2,8 +2,10 @@
  
  ### Hey there 👋
 
-I am Ridha Mezrigui an innovative tech mind, who believes in self education.
-Also I enjoy working with JavaScript technologies like react and nodejs.
+I am Ridha Mezrigui an innovative tech mind who believes in self education. 
+Since very young age I have been passionate about computers and programming.
+I wanted to know how do things work in the background, how all those programs are made.
+I really enjoy working with JavaScript technologies like react and nodejs.
 
 ### 📒 Blogs 
 💌 I love sharing my knowledge that's why I always try to create blogs in order to help people.
