@@ -3,7 +3,7 @@
  ### Hey there 👋
 
 I am Ridha Mezrigui an innovative tech mind, who believes in self education.
-Also I enjoy working with JavaScript technologies like react and nodjs.
+Also I enjoy working with JavaScript technologies like react and nodejs.
 
 ### 📒 Blogs 
 💌 I love sharing my knowledge that's why I always try to create blogs in order to help people.
