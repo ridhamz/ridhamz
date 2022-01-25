@@ -16,7 +16,7 @@ I really enjoy working with JavaScript technologies such as React💙 and Nodejs
 
 ### ⚡ Fun fact:
 
-Learn by doing is an easy way to learn something
+Learn by doing is an easy way to learn something ❤️.
 
 ### 🛠 &nbsp;Tech Stack
 
