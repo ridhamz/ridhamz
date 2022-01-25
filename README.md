@@ -17,13 +17,10 @@ I really enjoy working with JavaScript technologies such as React💙 and Nodejs
 ### ⚡ Fun facts and quotes:
 
 - THE MIND THAT OPENS TO A NEW IDEA NEVER RETURNS TO ITS ORIGINAL SIZE. <br>
-   Albert Einstein
+  Albert Einstein
 
 - NEVER BE LIMITED BY OTHER PEOPLE’S LIMITED IMAGINATIONS. <br>
-   Mae Jemison
-
-- KNOWING THE ANSWERS WILL HELP YOU IN SCHOOL. KNOWING HOW TO QUESTION WILL HELP YOU IN LIFE.
-  Warren Berger
+  Mae Jemison
 
 ### 🛠 &nbsp;Tech Stack
 
