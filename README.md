@@ -9,9 +9,7 @@ I wanted to know how do things work in the background, how all those
 programs are made. <br />
 I really enjoy working with JavaScript technologies such as React💙 and Nodejs💚.
 
-### 📒 Blogs
-
-💌 My technical blogs
+### 📒 My technical blogs
 
 - [meduim](https://medium.com/@ridhamezrigui07)
 - [dev.io](https://dev.to/ridhamz)
