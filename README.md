@@ -1,23 +1,27 @@
- <img align="right" alt="GIF" src="https://github.com/ridhamz/ridhamz/blob/main/16-167405_information-technology.jpg?raw=false" width="450" height="250" /> 
+ <img align="right" alt="GIF" src="https://github.com/ridhamz/ridhamz/blob/main/images/16-167405_information-technology.jpg?raw=false" width="450" height="250" /> 
  
  ### Hey there 👋
 
-I am Ridha Mezrigui an innovative tech mind who believes in self 
+I am Ridha Mezrigui an innovative tech mind who believes in self
 education.<br />
 Since very young age I have been passionate about computers and programming. <br />
 I wanted to know how do things work in the background, how all those
 programs are made. <br />
 I really enjoy working with JavaScript technologies such as React💙 and Nodejs💚.
 
-### 📒 Blogs 
+### 📒 Blogs
+
 💌 I love sharing my knowledge that's why I always try to create blogs in order to help people.
+
 - [meduim](https://medium.com/@ridhamezrigui07)
 - [dev.io](https://dev.to/ridhamz)
 
 ### ⚡ Fun fact:
+
 Learn by doing is an easy way to learn something
 
 ### 🛠 &nbsp;Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -28,6 +32,7 @@ Learn by doing is an easy way to learn something
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### 🏆 Stats
+
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=ridhamz&theme=blue-green&show_icons=true)](https://github.com/ridhamz/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Connect with Me
