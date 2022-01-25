@@ -14,9 +14,16 @@ I really enjoy working with JavaScript technologies such as React💙 and Nodejs
 - [meduim](https://medium.com/@ridhamezrigui07)
 - [dev.io](https://dev.to/ridhamz)
 
-### ⚡ Fun fact:
+### ⚡ Fun facts and quotes:
 
-Learn by doing is an easy way to learn something ❤️.
+- THE MIND THAT OPENS TO A NEW IDEA NEVER RETURNS TO ITS ORIGINAL SIZE.
+   Albert Einstein
+
+- NEVER BE LIMITED BY OTHER PEOPLE’S LIMITED IMAGINATIONS.
+   Mae Jemison
+
+- KNOWING THE ANSWERS WILL HELP YOU IN SCHOOL. KNOWING HOW TO QUESTION WILL HELP YOU IN LIFE.
+  Warren Berger
 
 ### 🛠 &nbsp;Tech Stack
 
