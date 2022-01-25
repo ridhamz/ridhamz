@@ -11,7 +11,7 @@ I really enjoy working with JavaScript technologies such as React💙 and Nodejs
 
 ### 📒 Blogs
 
-💌 I love sharing my knowledge that's why I always try to create blogs in order to help people.
+💌 My technical blogs
 
 - [meduim](https://medium.com/@ridhamezrigui07)
 - [dev.io](https://dev.to/ridhamz)
