@@ -17,10 +17,10 @@ I really enjoy working with JavaScript technologies such as React💙 and Nodejs
 ### ⚡ Fun facts and quotes:
 
 - THE MIND THAT OPENS TO A NEW IDEA NEVER RETURNS TO ITS ORIGINAL SIZE. <br>
-  Albert Einstein
+ <b> "Albert Einstein" </b>
 
 - NEVER BE LIMITED BY OTHER PEOPLE’S LIMITED IMAGINATIONS. <br>
-  Mae Jemison
+  <b>"Mae Jemison"</b>
 
 ### 🛠 &nbsp;Tech Stack
 
