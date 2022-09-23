@@ -2,12 +2,8 @@
  
  ### Hey there 👋
 
-I am Ridha Mezrigui an innovative tech mind who believes in self
-education.<br />
-Since very young age I have been passionate about computers and programming. <br />
-I wanted to know how do things work in the background, how all those
-programs are made. <br />
-I really enjoy working with JavaScript technologies such as React💙 and Nodejs💚.
+I am Ridha Mezrigui a Software Engineer with  a balanced range of experience between front-end and back-end technologies.<br/>
+Passionate and highly familiar with JavaScript technologies, DevOps engineering, and Cloud computing. 
 
 ### 📒 My technical blogs
 
