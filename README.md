@@ -3,7 +3,7 @@
  ### Hey there 👋
 
 I am Ridha Mezrigui a Software Engineer with  a balanced range of experience between front-end and back-end technologies.<br/>
-Passionate and highly familiar with JavaScript technologies, DevOps engineering, and Cloud computing. 
+Passionate and highly familiar with JavaScript technologies, and Cloud engineering. 
 
 ### 📒 My technical blogs
 
