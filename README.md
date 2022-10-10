@@ -25,6 +25,7 @@ Passionate and highly familiar with JavaScript technologies, and Cloud engineeri
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-F79114?style=flat&&logo=amazonaws&logoColor=white)&nbsp;
 ![JEST](https://img.shields.io/badge/Jest-05122A?style=flat&logo=Jest&logoColor=white)&nbsp;
 ![mongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![dynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
