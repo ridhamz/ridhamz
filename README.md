@@ -22,7 +22,7 @@ Passionate and highly familiar with JavaScript technologies, and Cloud engineeri
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&&logo=amazonaws&logoColor=white)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-F79114?style=flat&&logo=amazonaws&logoColor=white)&nbsp;
 ![JEST](https://img.shields.io/badge/Jest-05122A?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
