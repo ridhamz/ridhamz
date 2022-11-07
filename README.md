@@ -2,7 +2,7 @@
  
  ### Hey there 👋
 
-I am Ridha Mezrigui a Software Engineer passionate and highly familiar with JavaScript technologies, and Cloud engineering. 
+Software Engineer passionate and highly familiar with JavaScript technologies, and Cloud engineering. 
 
 ### 📒 My technical blogs
 
