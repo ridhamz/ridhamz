@@ -19,8 +19,11 @@ Software Engineer passionate and highly familiar with JavaScript technologies, a
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Go](https://img.shields.io/badge/-go-05122A?style=flat&logo=go)&nbsp;
+![Python](https://img.shields.io/badge/-Paython-yellow?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![graphQL](https://img.shields.io/badge/-graphQL-rose?style=flat&logo=graphQL)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-F79114?style=flat&&logo=amazonaws&logoColor=white)&nbsp;
 ![JEST](https://img.shields.io/badge/Jest-05122A?style=flat&logo=Jest&logoColor=white)&nbsp;
 ![mongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
