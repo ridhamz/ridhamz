@@ -2,7 +2,7 @@
  
  ### Hey there 👋
 
-Software Engineer passionate and highly familiar with JavaScript technologies, and Cloud engineering. 
+Technology-driven Software Engineer with 4+ years of experience in translating business requirements and functional specifications into code modules and software solutions
 
 ### 📒 My technical blogs
 
