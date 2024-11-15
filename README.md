@@ -6,8 +6,7 @@ Technology-driven Software Engineer with 4+ years of experience in translating b
 
 ### 📒 My technical blogs
 
-- [meduim](https://medium.com/@ridhamezrigui07)
-- [dev.io](https://dev.to/ridhamz)
+- [doodooti.com](https://doodooti.com)
 
 ### ⚡ Fun facts and quotes:
 
